@@ -23,6 +23,8 @@ namespace IoTCoreBlink
     /// </summary>
     public sealed partial class MainPage : Page
     {
+
+        // Additional comment to create a new branch
         private const int LED1_PIN = 5;
         private const int LED2_PIN = 6;
         private const int LED3_PIN = 7;
