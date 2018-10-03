@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoTCoreBlink", "IoTCoreBlink\IoTCoreBlink.csproj", "{DBC12E48-608C-4F73-B47F-8ED5E19602B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBC12E48-608C-4F73-B47F-8ED5E19602B5}.Debug|ARM.ActiveCfg = Debug|ARM
+		{DBC12E48-608C-4F73-B47F-8ED5E19602B5}.Debug|ARM.Build.0 = Debug|ARM
+		{DBC12E48-608C-4F73-B47F-8ED5E19602B5}.Debug|ARM.Deploy.0 = Debug|ARM
+		{DBC12E48-608C-4F73-B47F-8ED5E19602B5}.Debug|x64.ActiveCfg = Debug|x64
+		{DBC12E48-608C-4F73-B47F-8ED5E19602B5}.Debug|x64.Build.0 = Debug|x64
+		{DBC12E48-608C-4F73-B47F-8ED5E19602B5}.Debug|x64.Deploy.0 = Debug|x64
+		{DBC12E48-608C-4F73-B47F-8ED5E19602B5}.Debug|x86.ActiveCfg = Debug|x86
+		{DBC12E48-608C-4F73-B47F-8ED5E19602B5}.Debug|x86.Build.0 = Debug|x86
+		{DBC12E48-608C-4F73-B47F-8ED5E19602B5}.Debug|x86.Deploy.0 = Debug|x86
+		{DBC12E48-608C-4F73-B47F-8ED5E19602B5}.Release|ARM.ActiveCfg = Release|ARM
+		{DBC12E48-608C-4F73-B47F-8ED5E19602B5}.Release|ARM.Build.0 = Release|ARM
+		{DBC12E48-608C-4F73-B47F-8ED5E19602B5}.Release|ARM.Deploy.0 = Release|ARM
+		{DBC12E48-608C-4F73-B47F-8ED5E19602B5}.Release|x64.ActiveCfg = Release|x64
+		{DBC12E48-608C-4F73-B47F-8ED5E19602B5}.Release|x64.Build.0 = Release|x64
+		{DBC12E48-608C-4F73-B47F-8ED5E19602B5}.Release|x64.Deploy.0 = Release|x64
+		{DBC12E48-608C-4F73-B47F-8ED5E19602B5}.Release|x86.ActiveCfg = Release|x86
+		{DBC12E48-608C-4F73-B47F-8ED5E19602B5}.Release|x86.Build.0 = Release|x86
+		{DBC12E48-608C-4F73-B47F-8ED5E19602B5}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FCE01A9-F1DA-41E9-921D-18B2C3E58A1C}
+	EndGlobalSection
+EndGlobal
